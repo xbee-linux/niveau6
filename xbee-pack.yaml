@@ -3,4 +3,5 @@ schema-version: 1.0
 
 builders:
   - gcc
-
+  - libzip
+  - ninja
